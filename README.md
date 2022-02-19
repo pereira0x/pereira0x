@@ -7,13 +7,13 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pearsettings44&label=Profile%20views&color=0e75b6&style=plastic" alt="pearsettings44" /> </p>
 
-## 🔥 Streak Stats
+## 🌱 Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pearsettings44&theme=algolia" alt="pearsettings44"  /></p>
 
 
-## 🛠️ My Skills
+## ⚙️ My Skills
 
-### 👉 Programming languages
+### 📎 Programming languages
 
 <p align="left"> 
   &emsp; 
@@ -42,7 +42,7 @@
   </a>
 </p>
 
-### 👉 Frontend Development
+### 📎 Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -58,7 +58,7 @@
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 📎 Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
@@ -72,7 +72,7 @@
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
  </p>
   
-### 👉Graphic Designing
+### 📎 Graphic Designing
 <p align="left">
   &emsp;
   	
@@ -98,7 +98,7 @@
   </a>
  </p>
 
- ### 👉 Software & Tools
+ ### 📎 Software & Tools
  
 <p>
   &emsp;
