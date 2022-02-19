@@ -83,7 +83,7 @@
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/50/000000/github.png" alt="GitHub"/></a>
 
 <hr/>
 
