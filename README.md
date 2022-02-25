@@ -8,8 +8,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pearsettings44&label=Profile%20views&color=0e75b6&style=plastic" alt="pearsettings44" /> </p>
 
 ## 🌱 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pearsettings44&theme=algolia" alt="pearsettings44"  /></p>
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pearsettings44&theme=algolia" alt="pearsettings44"  /></p>
 
 ## ⚙️ My Skills
 
@@ -24,10 +24,15 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
 
 </p>
 
 ### 📎 Frontend Development
+
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -40,7 +45,7 @@
 </p>
 
 ### 📎 Software & Tools
- 
+
 <p>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -53,8 +58,7 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
-
+## 📊 Github Stats (Expand to View)
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -69,7 +73,6 @@
   </p>
 </details>
 
-
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
@@ -81,10 +84,11 @@
 <br/>
 
 ## 🙋‍♀️ Let's Connect
+
 <p align="center">
 	<a href="https://github.com/pearsettings44"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 
 <hr/>
 
-* Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 19/02/2022
+- Credit: [Candida18](https://github.com/Candida18)
+- Last Edited on: 19/02/2022
