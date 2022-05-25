@@ -83,7 +83,7 @@
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀️ Recursion
 
 <p align="center">
 	<a href="https://github.com/pearsettings44"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
