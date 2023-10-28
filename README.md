@@ -70,15 +70,6 @@
 <br/>
   &nbsp;
 </details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/pearsettings44"><img alt="pearsettings44's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pearsettings44&custom_title=Pearsettings44's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
 
 ## 🙋‍♀️ Recursion
