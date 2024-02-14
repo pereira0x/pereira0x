@@ -1,15 +1,15 @@
-<h1 align="center">Hi , I'm pearsettings44 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm pereira0x <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Instituto+Superior+Tecnico"></a>
 </p>
 <hr/>
 <h4 align="center">I am a first year student pursuing Computer Science and Enginnering @ IST. I like to create and code things. I am an enthusiastic who loves to take up new challenges and learn new skills. I like meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pearsettings44&label=Profile%20views&color=0e75b6&style=plastic" alt="pearsettings44" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pereira0x&label=Profile%20views&color=0e75b6&style=plastic" alt="pereira0x" /> </p>
 
 ## 🌱 Github Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pearsettings44&theme=algolia" alt="pearsettings44"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pereira0x&theme=algolia" alt="pereira0x"  /></p>
 
 ## ⚙️ My Skills
 
@@ -66,7 +66,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="pearsettings44's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pearsettings44&show_icons=true&count_private=true&theme=algolia" height="192px"/></a></p>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="pereira0x's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pereira0x&show_icons=true&count_private=true&theme=algolia" height="192px"/></a></p>
 <br/>
   &nbsp;
 </details>
